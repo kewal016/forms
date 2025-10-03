@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "eslint": "^9.34.0",
+    "sass": "^1.93.2"
+  }
+}
